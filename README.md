@@ -5,16 +5,16 @@
 
 Professional trading journal web application with **automatic MT5 synchronization** and **Bloomberg Terminal theme**.
 
-## ✨ Features
+## Features
 
-- 🎯 **Direct MT5 Login** - Enter account number and start trading
-- 📊 **Real-time Analytics** - Live trading statistics and performance metrics
-- 🔄 **Auto Sync** - MT5 Expert Advisor syncs trades automatically
-- 📈 **Bloomberg Theme** - Professional dark terminal interface
-- 💰 **Complete Trade Journal** - Track all trades with detailed metrics
-- 📱 **Responsive Design** - Works on desktop, tablet, and mobile
+- **Direct MT5 Login** - Enter account number and start trading
+- **Real-time Analytics** - Live trading statistics and performance metrics
+- **Auto Sync** - MT5 Expert Advisor syncs trades automatically
+- **Bloomberg Theme** - Professional dark terminal interface
+- **Complete Trade Journal** - Track all trades with detailed metrics
+- **Responsive Design** - Works on desktop, tablet, and mobile
 
-## 🚀 Quick Start
+## Quick Start
 
 ```bash
 # Clone and navigate
@@ -28,17 +28,17 @@ START_ALL.bat
 # Backend:  http://localhost:3002
 ```
 
-## 📋 Requirements
+## Requirements
 
 - Node.js 18+
 - PostgreSQL 12+
 - MetaTrader 5
 
-## 📦 Installation
+## Installation
 
 See [INSTALL.md](INSTALL.md) for detailed setup instructions.
 
-## 🎨 Screenshots
+## Screenshots
 
 **Bloomberg Terminal Theme**
 - Dark navy background with professional financial layout
@@ -46,7 +46,7 @@ See [INSTALL.md](INSTALL.md) for detailed setup instructions.
 - Monospace fonts for trading data
 - Clean, organized dashboard
 
-## 📊 Tech Stack
+## Tech Stack
 
 ### Backend
 - Node.js + Express
@@ -77,12 +77,12 @@ See [INSTALL.md](INSTALL.md) for detailed setup instructions.
 - `backend/.env` - Database and server config
 - `frontend/vite.config.js` - Frontend port config
 
-## 📖 Documentation
+## Documentation
 
 - **[Installation Guide](INSTALL.md)** - Detailed setup instructions
 - **[Quick Start](QUICK_START.md)** - Fast setup for experienced users
 
-## 🎯 Usage
+## Usage
 
 1. **Login**
    - Enter your MT5 account number
@@ -109,16 +109,16 @@ See [INSTALL.md](INSTALL.md) for detailed setup instructions.
    - Manage preferences
    - View API settings
 
-## 🔄 MT5 Synchronization
+## MT5 Synchronization
 
 The Expert Advisor automatically syncs:
-- ✅ Trade opens (ORDER_OPEN events)
-- ✅ Trade closes (ORDER_CLOSE events)
-- ✅ Entry/exit prices
-- ✅ Profit/loss calculations
-- ✅ Commission and swap
+- Trade opens (ORDER_OPEN events)
+- Trade closes (ORDER_CLOSE events)
+- Entry/exit prices
+- Profit/loss calculations
+- Commission and swap
 
-## 🎨 Bloomberg Terminal Theme
+## Bloomberg Terminal Theme
 
 Inspired by professional trading terminals:
 - **Dark Mode** - Easy on the eyes for long trading sessions
@@ -127,33 +127,33 @@ Inspired by professional trading terminals:
 - **Grid Layouts** - Organized, scannable information
 - **Terminal Style** - Monospace data display
 
-## 🔐 Security Note
+## Security Note
 
-⚠️ **This is a proof-of-concept system**
+ **This is a proof-of-concept system**
 
 - Direct MT5 account number login (no password)
 - Suitable for personal use and development
 - **Not production-ready** - Implement proper auth for production
 
-## 📝 License
+## License
 
 MIT License - Free to use and modify
 
-## 🤝 Contributing
+## Contributing
 
 Contributions welcome! Feel free to:
 - Report bugs
 - Suggest features
 - Submit pull requests
 
-## 🆘 Support
+## Support
 
 Having issues? Check:
 1. [Troubleshooting](INSTALL.md#troublesho oting) in installation guide
 2. [Common Issues](QUICK_START.md#common-issues) in quick start
 3. Console logs for detailed errors
 
-## 🎯 Roadmap
+## Roadmap
 
 - [x] MT5 auto-sync
 - [x] Bloomberg Terminal theme
@@ -169,3 +169,4 @@ Having issues? Check:
 ---
 
 **Built with ❤️ for traders**
+
