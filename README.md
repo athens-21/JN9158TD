@@ -1,7 +1,5 @@
 # Trading Journal System
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-
 Professional trading journal web application with **automatic MT5 synchronization** and **Bloomberg Terminal theme**.
 
 ## Features
@@ -158,5 +156,6 @@ Having issues? Check:
 ---
 
 **Built with for traders**
+
 
 
