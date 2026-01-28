@@ -1,6 +1,5 @@
 # Trading Journal System
 
-[![Bloomberg Terminal Theme](https://img.shields.io/badge/Theme-Bloomberg-orange)](https://github.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 Professional trading journal web application with **automatic MT5 synchronization** and **Bloomberg Terminal theme**.
@@ -10,7 +9,6 @@ Professional trading journal web application with **automatic MT5 synchronizatio
 - **Direct MT5 Login** - Enter account number and start trading
 - **Real-time Analytics** - Live trading statistics and performance metrics
 - **Auto Sync** - MT5 Expert Advisor syncs trades automatically
-- **Bloomberg Theme** - Professional dark terminal interface
 - **Complete Trade Journal** - Track all trades with detailed metrics
 - **Responsive Design** - Works on desktop, tablet, and mobile
 
@@ -118,15 +116,6 @@ The Expert Advisor automatically syncs:
 - Profit/loss calculations
 - Commission and swap
 
-## Bloomberg Terminal Theme
-
-Inspired by professional trading terminals:
-- **Dark Mode** - Easy on the eyes for long trading sessions
-- **Professional Typography** - Inter and Roboto Mono fonts
-- **Financial Color Scheme** - Dark navy, orange accents, teal success
-- **Grid Layouts** - Organized, scannable information
-- **Terminal Style** - Monospace data display
-
 ## Security Note
 
  **This is a proof-of-concept system**
@@ -156,7 +145,7 @@ Having issues? Check:
 ## Roadmap
 
 - [x] MT5 auto-sync
-- [x] Bloomberg Terminal theme
+
 - [x] Real-time statistics
 - [x] Trade management
 - [ ] Advanced charting
@@ -168,5 +157,6 @@ Having issues? Check:
 
 ---
 
-**Built with ❤️ for traders**
+**Built with for traders**
+
 
